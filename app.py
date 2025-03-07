@@ -5,7 +5,7 @@ import os
 import requests
 
 # Hugging Face API credentials
-API_KEY = "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"  # Replace with your actual API key
+API_KEY = ""  # Replace with your actual API key
 MODEL_URL = "https://api-inference.huggingface.co/models/prompthero/openjourney"
 
 def generate_image_from_prompt(prompt):
